@@ -44,12 +44,12 @@ Memory es una aplicación multiplataforma (Windows y Android) creada para proteg
 ## Instalación
 
 ### Android
-1. Descarga el archivo `memory-android.apk` desde la sección de [Releases](https://github.com/[tu-usuario]/memory/releases/latest).
+1. Descarga el archivo `memory-android.apk` desde la sección de [Releases](https://github.com/BryanRF/memory-releases/releases/latest).
 2. En tu dispositivo, habilita la instalación desde fuentes desconocidas (si es necesario).
 3. Abre el archivo descargado y sigue las instrucciones del instalador.
 
 ### Windows
-1. Descarga el instalador `Memory-Installer.msix` desde [Releases](https://github.com/[tu-usuario]/memory/releases/latest).
+1. Descarga el instalador `Memory-Installer.msix` desde [Releases](https://github.com/BryanRF/memory-releases/releases/latest).
 2. Ejecuta el archivo y sigue el asistente de instalación.
 3. **Alternativa portable**: Descarga la versión `.zip`, descomprímela y ejecuta `Memory.exe` directamente (sin instalación).
 
