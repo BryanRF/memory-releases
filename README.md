@@ -1,9 +1,10 @@
 
-# Memory
 <div align="center">
-  <img src="assets/logo.png" alt="Banner de Memory" width="150">
-  <br><br>
+  <h1>Memory</h1>
+  <img src="assets/logo.png" alt="Memory Logo" width="150" >
+
 </div>
+
 Memory es una aplicación multiplataforma (Windows y Android) creada para proteger y organizar tu información sensible de forma privada y efectiva. Almacena contraseñas y credenciales con cifrado robusto, gestiona tus finanzas personales con herramientas inteligentes y sincroniza todo entre tus dispositivos sin depender de servidores externos.
 
 
